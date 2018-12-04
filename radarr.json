@@ -27,7 +27,7 @@
     ],
     "checkver": {
         "url": "https://orthodox.io/radarr.php",
-        "re": "([\\d]+)"
+        "re": "(.*)"
     },
     "autoupdate": {
         "architecture": {
