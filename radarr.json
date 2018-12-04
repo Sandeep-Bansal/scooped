@@ -3,10 +3,10 @@
     "version": "0.2.0.1120",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.v0.2.0.1120.windows.zip"
+            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.windows.zip"
         },
         "32bit": {
-            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.v0.2.0.1120.windows.zip"
+            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.windows.zip"
         }
     },
     "bin": "Radarr.Console.exe",
