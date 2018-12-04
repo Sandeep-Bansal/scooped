@@ -10,6 +10,14 @@
         }
     },
     "bin": "Radarr/Radarr.Console.exe",
+    "installer": {
+        "file": "Radarr/ServiceInstall.exe",
+        "keep: "true"
+    },
+    "uninstaller": {
+        "file": "Radarr/ServiceUninstall.exe",
+        "keep: "true"
+    },
     "shortcuts": [
         [
             "Radarr/Radarr.Console.exe",
