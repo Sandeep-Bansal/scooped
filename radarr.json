@@ -18,6 +18,7 @@
         "file": "Radarr/ServiceUninstall.exe",
         "keep": "true"
     },
+    "notes":"If you have allowed it - Radarr has been installed as service allowing it to be run automatically. You can access Radarr by navigating to http://localhost:7878",
     "shortcuts": [
         [
             "Radarr/Radarr.Console.exe",
