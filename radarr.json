@@ -1,12 +1,12 @@
 {
     "homepage": "https://radarr.video/",
-    "version": "0.2.0.1217",
+    "version": "0.2.0.1120",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1217/Radarr.v0.2.0.1217.windows.zip"
+            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.windows.zip"
         },
         "32bit": {
-            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1217/Radarr.v0.2.0.1217.windows.zip"
+            "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.windows.zip"
         }
     },
     "bin": "Radarr/Radarr.Console.exe",
@@ -26,7 +26,6 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/Radarr/Radarr",
         "url": "https://api.github.com/repos/Radarr/Radarr/releases",
         "jp": "$[0].tag_name",
         "re": "v([\\d.]+)"
