@@ -17,8 +17,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/Radarr/Radarr/releases.atom",
-        "re": "(\\(Pre-Release v\\ [\\d.]+))"
+        "github": "https://github.com/Radarr/Radarr"
     },
     "autoupdate": {
         "architecture": {
