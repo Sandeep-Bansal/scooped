@@ -9,11 +9,11 @@
             "url": "https://github.com/Radarr/Radarr/releases/download/v0.2.0.1120/Radarr.develop.0.2.0.1120.windows.zip"
         }
     },
-    "bin": "Radarr.Console.exe",
+    "bin": "Radarr/Radarr.Console.exe",
     "shortcuts": [
         [
-            "Radarr.Console.exe",
-            "Radarr"
+            "Radarr/Radarr.Console.exe",
+            "Radarr/Radarr"
         ]
     ],
     "checkver": {
