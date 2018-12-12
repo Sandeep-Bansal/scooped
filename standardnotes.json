@@ -13,6 +13,6 @@
        "github": "https://github.com/standardnotes/desktop"
     },
     "autoupdate": {
-        "url": "https://github.com/standardnotes/desktop/releases/download/v$version/standard-notes-setup-$version.exe",
+        "url": "https://github.com/standardnotes/desktop/releases/download/v$version/standard-notes-setup-$version.exe"
     }
 }
